@@ -44,12 +44,21 @@ con excelente equipo, que durante dos años dirigí.
 El trabajo en esta etapa fue diverso, en lo relacionado con las tecnologías cabe destacar:  
 +  Mantenimiento de la red local.  
 + Desarrollo del sistema de geolocalización de ganado en extensivo en [código abierto](https://github.com/jgpATs2w) <http://gpslibre.es>.  
-+ Desarrollo del sistema de contabilidad básica en [código abierto](https://github.com/jgpATs2w) <http://contatu.es>  
++ Desarrollo del sistema de contabilida
 
-**Desarrollo de aplicaciones **-*[Anaya Educación](http://www.anayaeducacion.es)   
+
+d básica en [código abierto](https://github.com/jgpATs2w) <http://contatu.es>  
+
+
+#### Desarrollo de aplicaciones en [Anaya Educación](http://www.anayaeducacion.es)   
 
 *php, html5, js, require, angular*  
 Desarrollo de laboratorios virtuales y gestores de contenidos.
+
+#### Desarrollo de aplicaciones para [Arias](http://arias.es/)   
+
+*php, html5, js, require, sap, saprfc*  
+Desarrollo de sistema de integración de lecturas de códigos de barras en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite).
 
 **Charlas / Cursos impartidos**  
 >*Medida en tiempo real de caudal en estuarios* - Southampton 2006, Barcelona 2007  
