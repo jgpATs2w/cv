@@ -1,0 +1,13 @@
+BEGIN:VCARD
+VERSION:2.1
+N:Javier;Garcia;Parra
+FN:Javier
+ORG:sens2web.es
+TITLE:developer
+PHOTO;GIF:http://sens2web.es/jgp/perfil.png
+TEL;WORK;VOICE:(+34) 684010233 
+ADR;WORK:Fuenlabrada;Madrid;Spain
+EMAIL;PREF;INTERNET:jgp@sens2web.es
+BDAY:19780224
+REV:20130516T000000Z
+END:VCARD

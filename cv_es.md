@@ -1,5 +1,5 @@
 Programador y administrador en entornos **web**, dispositivos **móviles** y **software libre**.  
-Actualmente **estoy disponible para nuevos proyectos**, preferiblemente de trabajo remoto (con reuniones de equipo presenciales
+Actualmente **estoy disponible para nuevos proyectos**, preferiblemente de trabajo remoto (con reuniones de equipo presenciales 
 o por conferencia). Ofrezco experiencia diversa y muchas ganas, lo que me permite enfrentar proyectos concretos sin perder
 de vista la escala global, y, por supuesto, a las **personas**.
 ***
@@ -11,15 +11,15 @@ Experto
  java, javascript, ecmascript-6, firefox, android, ssh, bash*  
 Conocidas
 ---------
-*git, cvs, apache, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows,
+*git, cvs, apache, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows, 
 osx, osx-server, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
 ***
 Experiencia
 ===========
 **Ingeniero**-*[Qualitas Instruments](http://www.qualitasinstruments.com)* (2003-2007)  
 *plc, matlab, rs232, rs485, rs422, ethernet, hmi, doppler, lidar*  
-Múltiples tareas, desde el desarrollo de aplicaciones en PLCs a la instalación de equipos, diseño de sistemas
-y documentación. Los éxitos logrados por nuestro equipo, permitieron a la empresa situarse al máximo nivel en el sector
+Múltiples tareas, desde el desarrollo de aplicaciones en PLCs a la instalación de equipos, diseño de sistemas 
+y documentación. Los éxitos logrados por nuestro equipo, permitieron a la empresa situarse al máximo nivel en el sector 
 de la hidrología en lámina libre.  
 El desafío mayor en esta etapa fue la de mantener un ritmo de desarrollo de productos de software adecuado a las renovadas
  necesidades de un sector pionero, adaptándonos en todo momento a las exigencias de nuestros clientes.
@@ -29,7 +29,7 @@ El desafío mayor en esta etapa fue la de mantener un ritmo de desarrollo de pro
 Como primera empresa instalando los sistemas radar HF de Codar en España, pioneros en la medida de corrientes superficiales
 con radar HF fueron tiempos muy excitantes. El trabajo en este campo implicaba el diseño de los sistemas
 de comunicaciones, la instalación y el mantenimiento de estos equipos, tanto a nivel software como hardware. Desarrollamos unas
-fuertes relaciones con la empresa en California,  fuimos entrenados en sus instalaciones y universidades colaboradoras. Era una
+fuertes relaciones con la empresa en California,  fuimos entrenados en sus instalaciones y universidades colaboradoras. Era una 
 tarea que combinaba de forma especial *investigación* e *ingeniería*.
 
 **Administrador de sistemas, desarrollador, Director de desarrollo**-*[Qualitas Remos](http://www.qualitasremos.com)* (2007-2010)  
@@ -45,11 +45,6 @@ El trabajo en esta etapa fue diverso, en lo relacionado con las tecnologías cab
 +  Mantenimiento de la red local.  
 + Desarrollo del sistema de geolocalización de ganado en extensivo en [código abierto](https://github.com/jgpATs2w) <http://gpslibre.es>.  
 + Desarrollo del sistema de contabilidad básica en [código abierto](https://github.com/jgpATs2w) <http://contatu.es>  
-
-**Desarrollo de aplicaciones **-*[Anaya Educación](http://www.anayaeducacion.es)   
-
-*php, html5, js, require, angular*  
-Desarrollo de laboratorios virtuales y gestores de contenidos.
 
 **Charlas / Cursos impartidos**  
 >*Medida en tiempo real de caudal en estuarios* - Southampton 2006, Barcelona 2007  
@@ -77,7 +72,7 @@ asignaturas ha sido continuo y los éxitos vienen marcados por los hitos alcanza
 Actualmente la he retomado con el nuevo plan de estudios, con un renovado enfoque.
 
 **Grado Matemáticas** - *[UNED](http://portal.uned.es/portal/page?_pageid=93,22985590&_dad=portal&_schema=PORTAL)* (2011-oo)  
-Hasta el momento, solo es destacable la mejora en la comprensión de los fundamentos de programación y bases de datos gracias
+Hasta el momento, solo es destacable la mejora en la comprensión de los fundamentos de programación y bases de datos gracias 
 a la Teoría de Conjuntos, Grafos y el Álgebra lineal.  
 
 **Mobile Web1: Best Practices** - W3DevCampus  
@@ -86,7 +81,8 @@ Un curso determinante para consolidar las bases del desarrollo en entornos web m
 ***
 Perfiles públicos
 =================
-**StackOverflow** - <http://stackoverflow.com/users/2350344/jgpats2w> : Mi compromiso con la comunidad de programadores es ofrecer un retorno de todo
+**StackOverflow** - <http://stackoverflow.com/users/2350344/jgpats2w> : Mi compromiso con la comunidad de programadores es ofrecer un retorno de todo 
 lo aprendido gracias a ellos.  
+**Mozilla Developer Network** - <https://developer.mozilla.org/en-US/profiles/jgpATs2w> : lugar de referencia para tutoriales de tecnologías web.    
 **Github** <https://github.com/jgpATs2w> : lugar donde comparto mi código.  
 **Linkedin** <http://es.linkedin.com/in/jgpats2w/> : red social de relaciones profesionales.
