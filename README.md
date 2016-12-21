@@ -1,5 +1,5 @@
-Programador y administrador en entornos **web**, dispositivos **móviles** y **software libre**.  
-Actualmente **estoy disponible para nuevos proyectos**, preferiblemente de trabajo remoto (con reuniones de equipo presenciales
+Desarrollador artesanal de software en entornos **web**, dispositivos **móviles** y **software libre**.  
+Actualmente **estoy disponible para nuevos proyectos** que permitan el trabajo remoto (con reuniones de equipo presenciales
 o por conferencia). Ofrezco experiencia diversa y muchas ganas, lo que me permite enfrentar proyectos concretos sin perder
 de vista la escala global, y, por supuesto, a las **personas**.
 ***
@@ -7,8 +7,8 @@ Tecnologías
 ===========
 Experto
 -------
-*ajaj,  json, java-me, debian, php5, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana,
- java, javascript, ecmascript-6, firefox, android, ssh, bash*  
+*angular, ajaj,  json, java-me, debian, php5, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana,
+ java, javascript, firefox, android, ssh, bash*  
 Conocidas
 ---------
 *git, cvs, apache, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows,
@@ -40,25 +40,25 @@ Como *administrador* de sistemas trabajaba en entornos osx y osx-server, con mys
 Como *desarrollador*, enfrentaba el diseño, el desarrollo, la depuración y la documentación, los primeros años solo, y los últimos
 con excelente equipo, que durante dos años dirigí.  
 
-**Voluntario en Cooperativa Agroforestal**-SCoop Apisquillos (2011-2013)  
+**Voluntario en Cooperativa Agroforestal**-SCoop Apisquillos (2011-2016)  
 El trabajo en esta etapa fue diverso, en lo relacionado con las tecnologías cabe destacar:  
 +  Mantenimiento de la red local.  
-+ Desarrollo del sistema de geolocalización de ganado en extensivo en [código abierto](https://github.com/jgpATs2w) <http://gpslibre.es>.  
-+ Desarrollo del sistema de contabilida
++ Desarrollo del sistema de geolocalización de ganado en extensivo en [código abierto](https://github.com/jgpATs2w/gpslibre-server) <http://gpslibre.es>.  
++ Desarrollo de una aplicación de contabilidad básica en [código abierto](https://github.com/jgpATs2w/contatu) <http://contatu.es>. Actualmente en desuso.  
 
 
-d básica en [código abierto](https://github.com/jgpATs2w) <http://contatu.es>  
+#### Desarrollo de aplicaciones para [Anaya Educación](http://www.anayaeducacion.es) (2014)  
 
+*php, html5, js, angular, mysql, sqlite*  
+Desarrollo de laboratorios virtuales en el campo de la física y la química.
+Desarrollo y mantenimiento de gestores de contenidos, herramientas que permiten un desarrollo más eficaz de los contenidos educativos interactivos.
+Desarrollo y mantenimiento de herramientas para la comunicación de equipos y la gestión de proyectos.
+Desarrollo y mantemimiento del generador de evaluaciones.
 
-#### Desarrollo de aplicaciones en [Anaya Educación](http://www.anayaeducacion.es)   
+#### Desarrollo de aplicaciones para [Arias](http://arias.es/)   (2015)
 
-*php, html5, js, require, angular*  
-Desarrollo de laboratorios virtuales y gestores de contenidos.
-
-#### Desarrollo de aplicaciones para [Arias](http://arias.es/)   
-
-*php, html5, js, require, sap, saprfc*  
-Desarrollo de sistema de integración de lecturas de códigos de barras en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite).
+*angular, php, sap, saprfc, sap web services*
+Desarrollo y mantenimiento de un sistema de integración de lecturas de códigos de barras en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite).
 
 **Charlas / Cursos impartidos**  
 >*Medida en tiempo real de caudal en estuarios* - Southampton 2006, Barcelona 2007  
@@ -79,23 +79,26 @@ de alimento. Especiales honores en **bioquímica** y **economía**.
 
 Este curso consolidó las bases para la programación de PLCs y el manejo de sensores analógicos y digitales durante mi carrera profesional.  
 
-**Ingeniería informática**-*[UNED](http://portal.uned.es/portal/page?_pageid=93,25435710&_dad=portal&_schema=PORTAL&idGrado=7101)* (2004-oo)  
+**Ingeniería informática**-*[UNED](http://portal.uned.es/portal/page?_pageid=93,25435710&_dad=portal&_schema=PORTAL&idGrado=7101)* (2004)  
 
 Esta carrera la he desarrollado más desde la experiencia que desde la teoría. Mi compromiso con el estudio de las
 asignaturas ha sido continuo y los éxitos vienen marcados por los hitos alcanzados a nivel profesional.
 Actualmente la he retomado con el nuevo plan de estudios, con un renovado enfoque.
 
-**Grado Matemáticas** - *[UNED](http://portal.uned.es/portal/page?_pageid=93,22985590&_dad=portal&_schema=PORTAL)* (2011-oo)  
+**Grado Matemáticas** - *[UNED](http://portal.uned.es/portal/page?_pageid=93,22985590&_dad=portal&_schema=PORTAL)* (2011)  
 Hasta el momento, solo es destacable la mejora en la comprensión de los fundamentos de programación y bases de datos gracias
 a la Teoría de Conjuntos, Grafos y el Álgebra lineal.  
 
 **Mobile Web1: Best Practices** - W3DevCampus  
 Un curso determinante para consolidar las bases del desarrollo en entornos web móvil.
 
+**Mantenimiento de motores** - CEAC (2015)  
+Curso a distancia que estoy realizando para profundizar en el diagnóstico automático de averías y la integración de las tecnologías web con el mantenimiento de los automóviles.
+
+
 ***
 Perfiles públicos
 =================
-**StackOverflow** - <http://stackoverflow.com/users/2350344/jgpats2w> : Mi compromiso con la comunidad de programadores es ofrecer un retorno de todo
-lo aprendido gracias a ellos.  
+**StackOverflow** - <http://stackoverflow.com/users/2350344/jgpats2w> : Mi compromiso con la comunidad de programadores es ofrecer un retorno de todo lo aprendido gracias a ellos.  
 **Github** <https://github.com/jgpATs2w> : lugar donde comparto mi código.  
 **Linkedin** <http://es.linkedin.com/in/jgpats2w/> : red social de relaciones profesionales.
