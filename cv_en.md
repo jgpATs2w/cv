@@ -1,5 +1,5 @@
 Web and Mobile programmer.   
-Nowadays I'm available for new projects, preferably remote work (with conference meetings).  
+Nowadays I'm available for new projects open to remote work (with conference meetings).  
 My experience is diverse, I'm not a 'super expert' in any technology or even in general technologies field. I prefer
 to adapt myself to new situations and try to learn always as much as possible, doing my best to get the job done and
 to maintain a pleasant human environment.
@@ -44,8 +44,8 @@ development and testing front and back end apps, server scripting and mysql scri
 an excellent team. As development team responsible, I act as the interface between company ceo and development team.  
 
 **Courses**
->*Comunicaciones M2M terminales MTX: TeorÌa y Pr·ctica* - ETSI Caminos, Canales y Puertos, Madrid 2012  
->*IntroducciÛn MySQL* - Grupo Loyal, Madrid 2013
+>*Comunicaciones M2M terminales MTX: Teor√≠a y Pr√°ctica* - ETSI Caminos, Canales y Puertos, Madrid 2012  
+>*Introducci√≥n MySQL* - Grupo Loyal, Madrid 2013
 
 Education
 =========
