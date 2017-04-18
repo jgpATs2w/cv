@@ -8,11 +8,11 @@ Tecnologías
 
 Experto  
 -------  
-*angular, soap, git, ajaj,  json, java-me, debian, php, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana, java, javascript, firefox, android, ssh, bash*  
+*php, angular, soap, git, phpunit,  json, java-me, debian, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana, java, javascript, firefox, android, ssh, bash*  
 
 Conocidas
 ---------
-*git, cvs, apache, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows,
+*karma, protractor, apache, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows,
 osx, osx-server, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
 
 ***
