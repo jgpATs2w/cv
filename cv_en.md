@@ -8,11 +8,11 @@ Technical skills
 ================
 Expert
 ------
-*ajaj,  json, java-me, debian, php5, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana,
- java, javascript, ecmascript-6, firefox, android, ssh, bash*  
+*php, angular, soap, git, phpunit,  json, java-me, debian, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana, java, javascript, firefox, android, ssh, bash*  
+ 
 Known
 -----
-*git, cvs, apache, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows, 
+*karma, protractor, apache, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows,
 osx, osx-server, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
 ***
 Experience
@@ -42,6 +42,16 @@ started it, but i'm still very proud of my collaboration and specially of the wo
 I had the responsability over mysql, apache2 server, apache tomcat server, users,... As developer, I was dealing with design, 
 development and testing front and back end apps, server scripting and mysql scripting. First years alone, and last years with 
 an excellent team. As development team responsible, I act as the interface between company ceo and development team.  
+
+#### Apps development in [Anaya Educación](http://www.anayaeducacion.es) (Desde 2014)  
+
+*angularjs, jquery, php, html5, js, angular, mysql, sqlite*  
+Custom CMS and several educational apps in web environments.
+
+#### Intermec web app integrated with SAP [Arias](http://arias.es/)   (Desde 2015)
+
+*angular, php, sap, saprfc, sap web services, intermec*
+Development and maintenance of software responsible for handling GS1-128 barcode reads in the handheld Intermec terminal, process and manipulate data integrated with customer's [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), using SOAP protocol.
 
 **Courses**
 >*Comunicaciones M2M terminales MTX: Teoría y Práctica* - ETSI Caminos, Canales y Puertos, Madrid 2012  
