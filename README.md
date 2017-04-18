@@ -5,14 +5,16 @@ de vista la escala global, y, por supuesto, a las **personas**.
 ***
 Tecnologías
 ===========
-Experto
--------
-*angular, ajaj,  json, java-me, debian, php5, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana,
- java, javascript, firefox, android, ssh, bash*  
+
+Experto  
+-------  
+*angular, soap, git, ajaj,  json, java-me, debian, php, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana, java, javascript, firefox, android, ssh, bash*  
+
 Conocidas
 ---------
 *git, cvs, apache, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows,
 osx, osx-server, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
+
 ***
 Experiencia
 ===========
@@ -47,7 +49,7 @@ El trabajo en esta etapa fue diverso, en lo relacionado con las tecnologías cab
 + Desarrollo de una aplicación de contabilidad básica en [código abierto](https://github.com/jgpATs2w/contatu) <http://contatu.es>. Actualmente en desuso.  
 
 
-#### Desarrollo de aplicaciones para [Anaya Educación](http://www.anayaeducacion.es) (2014)  
+#### Desarrollo de aplicaciones para [Anaya Educación](http://www.anayaeducacion.es) (Desde 2014)  
 
 *php, html5, js, angular, mysql, sqlite*  
 Desarrollo de laboratorios virtuales en el campo de la física y la química.
@@ -55,10 +57,10 @@ Desarrollo y mantenimiento de gestores de contenidos, herramientas que permiten 
 Desarrollo y mantenimiento de herramientas para la comunicación de equipos y la gestión de proyectos.
 Desarrollo y mantemimiento del generador de evaluaciones.
 
-#### Desarrollo de aplicaciones para [Arias](http://arias.es/)   (2015)
+#### Desarrollo de aplicaciones para [Arias](http://arias.es/)   (Desde 2015)
 
 *angular, php, sap, saprfc, sap web services*
-Desarrollo y mantenimiento de un sistema de integración de lecturas de códigos de barras en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite).
+Desarrollo y mantenimiento de un sistema de integración de lecturas de códigos de barras GS1-128 para la gestión de mercancias en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), mediante comunicaciones SOAP.
 
 **Charlas / Cursos impartidos**  
 >*Medida en tiempo real de caudal en estuarios* - Southampton 2006, Barcelona 2007  
@@ -78,16 +80,6 @@ de alimento. Especiales honores en **bioquímica** y **economía**.
 **Curso de Autómatas programables: control y supervisión de sistemas**-*Laboratorio electrotecnia, ETSI Caminos, Canales y Puertos, UPM* (2/12/2002-27/2/2003)  
 
 Este curso consolidó las bases para la programación de PLCs y el manejo de sensores analógicos y digitales durante mi carrera profesional.  
-
-**Ingeniería informática**-*[UNED](http://portal.uned.es/portal/page?_pageid=93,25435710&_dad=portal&_schema=PORTAL&idGrado=7101)* (2004)  
-
-Esta carrera la he desarrollado más desde la experiencia que desde la teoría. Mi compromiso con el estudio de las
-asignaturas ha sido continuo y los éxitos vienen marcados por los hitos alcanzados a nivel profesional.
-Actualmente la he retomado con el nuevo plan de estudios, con un renovado enfoque.
-
-**Grado Matemáticas** - *[UNED](http://portal.uned.es/portal/page?_pageid=93,22985590&_dad=portal&_schema=PORTAL)* (2011)  
-Hasta el momento, solo es destacable la mejora en la comprensión de los fundamentos de programación y bases de datos gracias
-a la Teoría de Conjuntos, Grafos y el Álgebra lineal.  
 
 **Mobile Web1: Best Practices** - W3DevCampus  
 Un curso determinante para consolidar las bases del desarrollo en entornos web móvil.
