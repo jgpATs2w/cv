@@ -48,6 +48,9 @@ El trabajo en esta etapa fue diverso, en lo relacionado con las tecnologías cab
 + Desarrollo del sistema de geolocalización de ganado en extensivo en [código abierto](https://github.com/jgpATs2w/gpslibre-server) <http://gpslibre.es>.  
 + Desarrollo de una aplicación de contabilidad básica en [código abierto](https://github.com/jgpATs2w/contatu) <http://contatu.es>. Actualmente en desuso.  
 
+**Socio en Cooperativa de servicios informáticos**-SCoop Haicku (2015)  
+Nuestra cooperativa se centra en el desarrollo de software en entornos web en base a software libre y el mantenimiento de redes wifi y de ordenadores en pueblos de la sierra norte de Madrid.
+
 
 #### Desarrollo de aplicaciones para [Anaya Educación](http://www.anayaeducacion.es) (Desde 2014)  
 
@@ -84,7 +87,7 @@ Este curso consolidó las bases para la programación de PLCs y el manejo de sen
 **Mobile Web1: Best Practices** - W3DevCampus  
 Un curso determinante para consolidar las bases del desarrollo en entornos web móvil.
 
-**Mantenimiento de motores** - CEAC (2015)  
+**Mantenimiento de motores** - CEAC (2015-2017)  
 Curso a distancia que estoy realizando para profundizar en el diagnóstico automático de averías y la integración de las tecnologías web con el mantenimiento de los automóviles.
 
 
