@@ -1,3 +1,10 @@
+# CURRICULUM VITAE
+
+Javier García Parra  
+Residencia: Bustarviejo, Madrid  
+Contacto: 684010233 / jgp@sens2web.es  
+Nacimiento: 24/02/1978, Madrid  
+
 Desarrollador artesanal de software en entornos **web**, dispositivos **móviles** y **software libre**.  
 Actualmente **estoy disponible para nuevos proyectos** que permitan el trabajo remoto (con reuniones de equipo presenciales
 o por conferencia). Ofrezco experiencia diversa y muchas ganas, lo que me permite enfrentar proyectos concretos sin perder
