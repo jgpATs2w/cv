@@ -8,7 +8,7 @@ Tecnologías
 
 Experto  
 -------  
-*php, angular, soap, git, phpunit,  json, java-me, debian, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana, java, javascript, firefox, android, ssh, bash*  
+*php, angular, soap, git, phpunit,  json, java-me, debian, html5, canvas, ajax, postgresql,  mysql, eclipse, aptana, java, javascript, firefox, android, ssh, bash, wordpress*  
 
 Conocidas
 ---------
@@ -42,7 +42,7 @@ Como *administrador* de sistemas trabajaba en entornos osx y osx-server, con mys
 Como *desarrollador*, enfrentaba el diseño, el desarrollo, la depuración y la documentación, los primeros años solo, y los últimos
 con excelente equipo, que durante dos años dirigí.  
 
-**Voluntario en Cooperativa Agroforestal**-SCoop Apisquillos (2011-2016)  
+**Voluntario en Cooperativa Agroforestal**-SCoop Apisquillos (2011-2014)  
 El trabajo en esta etapa fue diverso, en lo relacionado con las tecnologías cabe destacar:  
 +  Mantenimiento de la red local.  
 + Desarrollo del sistema de geolocalización de ganado en extensivo en [código abierto](https://github.com/jgpATs2w/gpslibre-server) <http://gpslibre.es>.  
@@ -50,6 +50,7 @@ El trabajo en esta etapa fue diverso, en lo relacionado con las tecnologías cab
 
 **Socio en Cooperativa de servicios informáticos**-SCoop Haicku (2015)  
 Nuestra cooperativa se centra en el desarrollo de software en entornos web en base a software libre y el mantenimiento de redes wifi y de ordenadores en pueblos de la sierra norte de Madrid.
+Actualmente soy administrador de la misma.
 
 
 #### Desarrollo de aplicaciones para [Anaya Educación](http://www.anayaeducacion.es) (Desde 2014)  
@@ -58,19 +59,27 @@ Nuestra cooperativa se centra en el desarrollo de software en entornos web en ba
 Desarrollo de laboratorios virtuales en el campo de la física y la química.
 Desarrollo y mantenimiento de gestores de contenidos, herramientas que permiten un desarrollo más eficaz de los contenidos educativos interactivos.
 Desarrollo y mantenimiento de herramientas para la comunicación de equipos y la gestión de proyectos.
-Desarrollo y mantemimiento del generador de evaluaciones.
+Desarrollo y mantemimiento del generador de evaluaciones. Esta herramienta tiene más de 1500 usuarios diarios en la península.  
+Durante el año 2016 dirigí un equipo de desarrolladores.  
+Dentro del Grupo Anaya, también he realizado trabajos para Bruno y Algaida:  
+- Desarrollo y mantemimiento del generador de evaluaciones.  
+- Distribución del software [Haleo](https://haleo.editorialbruno.es/).  
 
 #### Desarrollo de aplicaciones para [Arias](http://arias.es/)   (Desde 2015)
 
 *angular, php, sap, saprfc, sap web services*
 Desarrollo y mantenimiento de un sistema de integración de lecturas de códigos de barras GS1-128 para la gestión de mercancias en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), mediante comunicaciones SOAP.
+Desarrollo de herramienta de gestión de pedidos internos.
 
 **Charlas / Cursos impartidos**  
 >*Medida en tiempo real de caudal en estuarios* - Southampton 2006, Barcelona 2007  
 >*HF Radar Experience in Spain* - Berlin 2007  
->*Fundamentos de los sensores doppler para la medida de caudal*  
+>*Fundamentos de los sensores doppler para la medida de caudal*  Universidad de Valladolid 2009
 >*Comunicaciones M2M terminales MTX: Teoría y Práctica* - ETSI Caminos, Canales y Puertos, Madrid 2012  
 >*Introducción MySQL* - Grupo Loyal, Madrid 2013
+
+**Desarrollo integral de sistemas de gestión de citas** (Desde 2015)  
+Desarrollo de una plataforma de servicios de gestión de citas online, evolucionando desde el sistema que opera desde 2015 en la [Clínica de Dolor Orofacial](https://clinicadolororofacial.es/citas/?room=1) al [sistema comercial](https://citame.click/) que está iniciando su servicio en 2018.
 
 ***
 
@@ -88,7 +97,7 @@ Este curso consolidó las bases para la programación de PLCs y el manejo de sen
 Un curso determinante para consolidar las bases del desarrollo en entornos web móvil.
 
 **Mantenimiento de motores** - CEAC (2015-2017)  
-Curso a distancia que estoy realizando para profundizar en el diagnóstico automático de averías y la integración de las tecnologías web con el mantenimiento de los automóviles.
+Curso a distancia que he realizado para profundizar en el diagnóstico automático de averías y la integración de las tecnologías web con el mantenimiento de los automóviles.
 
 
 ***
@@ -97,3 +106,11 @@ Perfiles públicos
 **StackOverflow** - <http://stackoverflow.com/users/2350344/jgpats2w> : Mi compromiso con la comunidad de programadores es ofrecer un retorno de todo lo aprendido gracias a ellos.  
 **Github** <https://github.com/jgpATs2w> : lugar donde comparto mi código.  
 **Linkedin** <http://es.linkedin.com/in/jgpats2w/> : red social de relaciones profesionales.
+
+***
+Apps públicas
+=============
+**WITH**  - <https://play.google.com/store/apps/details?id=haicku.com.whatisthis> : reconocimiento de imágenes para la mejora del vocabulario inglés.  
+**GPSLibre** - <https://play.google.com/store/apps/details?id=haicku.gpslibre> : Cliente Android del sistema gpslibre.es . 
+**Angular-d3-tree** - <https://www.npmjs.com/package/angular-d3-tree> : librería de integración [D3](https://d3js.org/) en Angular.  
+
