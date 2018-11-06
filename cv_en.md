@@ -76,5 +76,4 @@ Exciting course to consolidate the basis for mobile web design.
 Public profiles
 ===============
 **[StackOverflow](http://stackoverflow.com/users/2350344/jgpats2w)**  
-**[Mozilla Developer Network](https://developer.mozilla.org/en-US/profiles/jgpATs2w)**  
 **[Github](https://github.com/jgpATs2w)**
