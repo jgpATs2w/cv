@@ -13,7 +13,7 @@ Tecnologías
 
 Experto  
 -------  
-*php, angular, karma, material.angular, soap, git, phpunit,  json, java, debian, html5, canvas, ajax, postgresql,  mysql, intellij, javascript, firefox, chrome, android, ssh, bash, ionic*  
+*php, angular, karma, material.angular, soap, git, phpunit,  json, java, ubuntu, linux mint, debian, html5, canvas, ajax, postgresql,  mysql, intellij, javascript, firefox, chrome, android, ssh, bash, ionic*  
 
 Conocidas
 ---------
@@ -95,14 +95,17 @@ de alimento. Matrículas de honor en **bioquímica** y **economía**.
 
 Este curso consolidó las bases para la programación de PLCs y el manejo de sensores analógicos y digitales durante mi carrera profesional.  
 
-**Mobile Web1: Best Practices** - W3DevCampus  
-Un curso determinante para consolidar las bases del desarrollo en entornos web móvil.
+**Desarrolo de sitios web** - UPM ( 2000 )  
+Bases HTML, CSS y Javascript.
 
 **Mobile Web1: Best Practices** - W3DevCampus  ( 2012 )
 Un curso determinante para consolidar las bases del desarrollo en entornos web móvil.
 
 **Mantenimiento de motores** - CEAC (2015-2017)  
 Curso a distancia que he realizado para profundizar en el diagnóstico automático de averías y la integración de las tecnologías web con el mantenimiento de los automóviles.
+
+**Curso online Hacking Ético** - Udemy (2018)
+Análisis de seguridad en entornos web: nikto, sqldump, nmap.
 
 
 ***
