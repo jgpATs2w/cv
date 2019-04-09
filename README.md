@@ -2,7 +2,7 @@
 
 Javier García Parra  
 Residencia: Bustarviejo, Madrid  
-Contacto: 684010233 / jgp@sens2web.es  
+Contacto: 684010233 / javier@haicku.es  
 Nacimiento: 24/02/1978, Madrid  
 
 Desarrollador artesanal de software en entornos **web**, dispositivos **móviles** y **software libre**.  
