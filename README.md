@@ -5,22 +5,19 @@ Residencia: Bustarviejo, Madrid
 Contacto: 684010233 / javier@haicku.es  
 Nacimiento: 24/02/1978, Madrid  
 
-Desarrollador artesanal de software en entornos **web**, dispositivos **móviles** y **software libre**.  
-Actualmente **estoy disponible para nuevos proyectos** que permitan el trabajo remoto (con reuniones de equipo presenciales
-o por conferencia). Ofrezco experiencia diversa y muchas ganas, lo que me permite enfrentar proyectos concretos sin perder
-de vista la escala global, y, por supuesto, a las **personas**.
+Desarrollador artesanal de software en entornos **web** y dispositivos **móviles**.
+
 ***
 Tecnologías
 ===========
 
 Experto  
 -------  
-*php, angular, karma, material.angular, soap, git, phpunit,  json, java, debian, html5, canvas, ajax, postgresql,  mysql, intellij, javascript, firefox, chrome, android, ssh, bash, wordpress, ionic*  
+*php, angular, karma, material.angular, soap, git, phpunit,  json, java, debian, html5, canvas, ajax, postgresql,  mysql, intellij, javascript, firefox, chrome, android, ssh, bash, ionic*  
 
 Conocidas
 ---------
-*centos, protractor, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows, 
-osx, osx-server, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
+*wordpress, centos, protractor, r, octave, sqlite, windows, osx, ios, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
 
 ***
 Experiencia
