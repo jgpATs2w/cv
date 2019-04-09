@@ -44,9 +44,8 @@ Como *desarrollador*, enfrentaba el diseño, el desarrollo, la depuración y la 
 con excelente equipo, que durante dos años dirigí.  
 Como *director de desarrollo* tuve bajo mi responsabilidad un equipo de hasta 4 personas durante dos años.
 
-**Voluntario en Cooperativa Agroforestal**-SCoop Apisquillos (2011-2014)  
-El trabajo en esta etapa fue diverso, en lo relacionado con las tecnologías cabe destacar:  
-+  Mantenimiento de la red local.  
+**Voluntario en Cooperativa Agroforestal**-SCoop Apisquillos (2011-2014)   
++ Mantenimiento de la red local.  
 + Desarrollo del sistema de geolocalización de ganado en extensivo en [código abierto](https://github.com/jgpATs2w/gpslibre-server) <http://gpslibre.es>.  
 + Desarrollo de una aplicación de contabilidad básica en [código abierto](https://github.com/jgpATs2w/contatu) 
 
