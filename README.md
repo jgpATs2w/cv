@@ -28,13 +28,13 @@ Experiencia
 - Desarrollo de sistema de medida de caudal en base a sensores Sontek, integrados en diferentes redes [SAIHS](https://es.wikipedia.org/wiki/Sistema_Autom%C3%A1tico_de_Informaci%C3%B3n_Hidrol%C3%B3gica) de tiempo real.
 - Desarrollo e implantación del primer sistema europeo de medida de caudal en tiempo real en estuario.
 Los éxitos logrados por nuestro equipo, permitieron a la empresa situarse al máximo nivel en el sector de la hidrología en lámina libre.  
-El desafío mayor en esta etapa fue la de mantener un ritmo de desarrollo de productos de software adecuado a las renovadas
- necesidades de un sector pionero, adaptándonos en todo momento a las exigencias de nuestros clientes.
 
 **Ingeniero Radar**-*[Qualitas Remos](http://www.qualitasremos.com)-[Codar](http://codaros.com/)* (2004-2009)  
 *osx, codar, hf, vhf, radar, bragg, doppler, matlab , ethernet*  
-Como primera empresa instalando los sistemas radar HF de [Codar](http://www.codar.com/) en España, pioneros en la medida de corrientes superficiales con radar HF. El trabajo en este campo implicaba el diseño de los sistemas
-de comunicaciones, la instalación y el mantenimiento de estos equipos, tanto a nivel software como hardware. Desarrollamos unas fuertes relaciones con la empresa en California,  fuimos entrenados en sus instalaciones y universidades colaboradoras. 
+Como primera empresa instalando los sistemas radar HF de [Codar](http://www.codar.com/) en España, pioneros en la medida de corrientes superficiales con radar HF. El trabajo en este campo implicaba el diseño de los sistemas de comunicaciones, la instalación y el mantenimiento de estos equipos, tanto a nivel software como hardware. Desarrollamos unas fuertes relaciones con la empresa en California,  fui entrenados en sus instalaciones de San Francisco y el SCSI (http://www.sci.sdsu.edu/cmi/), participando en actividades de:
+ - Seguimiento de vehiculos autónomos submarinos.
+ - Ensayos realizados con el [Riversonde](http://codar.com/RiverSonde.shtml)
+ - Mantenimiento y monitorización de la red Codar de California.
 
 **Administrador de sistemas, desarrollador, director de desarrollo**-*[Qualitas Remos](http://www.qualitasremos.com)* (2007-2010)  
 *osx, mysql, php, java, gwt, java-me, html, ssh, bash*  
