@@ -81,7 +81,8 @@ Dentro del Grupo Anaya, también he realizado trabajos para Bruno y Algaida:
 >*HF Radar Experience in Spain* - Berlin 2007  
 >*Fundamentos de los sensores doppler para la medida de caudal*  Universidad de Valladolid 2009
 >*Comunicaciones M2M terminales MTX: Teoría y Práctica* - ETSI Caminos, Canales y Puertos, Madrid 2012  
->*Introducción MySQL* - Grupo Loyal, Madrid 2013
+>*Introducción MySQL* - Grupo Loyal, Madrid 2013 
+>*Introducción Angular e Ionic* - Mantequerias Arias, Madrid 2018
 
 **Desarrollo integral de sistemas de gestión de citas** (Desde 2015)  
 Desarrollo de una plataforma de servicios de gestión de citas online, evolucionando desde el sistema que opera desde 2015 en la [Clínica de Dolor Orofacial](https://clinicadolororofacial.es/citas/?room=1) al [sistema comercial](https://citame.click/) que está iniciando su servicio en 2018.
