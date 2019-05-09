@@ -69,7 +69,8 @@ Dentro del Grupo Anaya, también he realizado trabajos para Bruno y Algaida:
 #### Desarrollo de aplicaciones para [Arias](http://arias.es/)   (Desde 2015)
 
 *angular, php, sap, saprfc, sap web services*  
- - Desarrollo y mantenimiento de un sistema de integración de lecturas de códigos de barras GS1-128 para la gestión de mercancias en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), mediante comunicaciones SOAP desde PHP. La app cliente está desarrollada en angularjs y en el servidor una API REST en [slim](http://www.slimframework.com/). La app tiene una versión Android que integra las comunidaciones SOAP.
+ - Desarrollo y mantenimiento de un sistema de integración de lecturas de códigos de barras GS1-128 para la gestión de mercancias en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), mediante comunicaciones SOAP desde PHP. La app cliente está desarrollada en angularjs y en el servidor una API REST en [slim](http://www.slimframework.com/).  
+ - Migración a Android 7 de la app anterior, que integra las comunidaciones SOAP.
  - Desarrollo de herramienta de gestión de pedidos internos. La parte cliente está desarrollada en Angular 7 y la parte servidor es una API REST en [slim](http://www.slimframework.com/), integrada con SAP.
  - Desarrollo de app de contactos y chat. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para Android, iOS y PWA. La parte servidor es una API REST en [slim](http://www.slimframework.com/).
  - Desarrollo de app de alertas. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para Android, iOS y PWA. La parte servidor es una API REST en [slim](http://www.slimframework.com/).
