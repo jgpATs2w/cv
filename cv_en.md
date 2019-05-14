@@ -1,19 +1,23 @@
-Web and Mobile programmer.   
-Nowadays I'm available for new projects open to remote work (with conference meetings).  
-My experience is diverse, I'm not a 'super expert' in any technology or even in general technologies field. I prefer
-to adapt myself to new situations and try to learn always as much as possible, doing my best to get the job done and
-to maintain a pleasant human environment.
+
+# CURRICULUM VITAE
+
+Javier García Parra  
+Residencia: Bustarviejo, Madrid  
+Contacto: 684010233 / javier@haicku.es  
+Nacimiento: 24/02/1978, Madrid  
+
+Artisan Web and Mobile programmer.   
 
 Technical skills
 ================
 Expert
 ------
-*php, angular, soap, git, phpunit,  json, java-me, debian, html5, canvas, ajax, xmlhttprequest, postgresql,  mysql, eclipse, aptana, java, javascript, firefox, android, ssh, bash*  
+*slim, php, angular, karma, material.angular, bootstrap soap, git, phpunit,  json, java, ubuntu, linux mint, debian, html5, canvas, ajax, postgresql,  mysql, intellij, javascript, karma, jasmine, android, ssh, bash, ionic, matlab, octave*
  
 Known
 -----
-*karma, protractor, apache, r, octave, sqlite, sparql, cinterion tc65, symbian s60, GWT, windows,
-osx, osx-server, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
+*wordpress, centos, protractor, r, sqlite, windows, osx, ios, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
+
 ***
 Experience
 ==========
@@ -43,12 +47,12 @@ I had the responsability over mysql, apache2 server, apache tomcat server, users
 development and testing front and back end apps, server scripting and mysql scripting. First years alone, and last years with 
 an excellent team. As development team responsible, I act as the interface between company ceo and development team.  
 
-#### Apps development in [Anaya Educación](http://www.anayaeducacion.es) (Desde 2014)  
+#### Apps development in [Anaya Educación](http://www.anayaeducacion.es) (Since 2014)  
 
 *angularjs, jquery, php, html5, js, angular, mysql, sqlite*  
 Custom CMS and several educational apps in web environments.
 
-#### Intermec web app integrated with SAP [Arias](http://arias.es/)   (Desde 2015)
+#### Intermec web app integrated with SAP [Arias](http://arias.es/)   (Since 2015)
 
 *angular, php, sap, saprfc, sap web services, intermec*
 Development and maintenance of software responsible for handling GS1-128 barcode reads in the handheld Intermec terminal, process and manipulate data integrated with customer's [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), using SOAP protocol.
