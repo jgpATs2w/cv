@@ -63,19 +63,6 @@ Como primera empresa instalando los sistemas radar HF de [Codar](http://www.coda
  - Ensayos realizados con el [Riversonde](http://codar.com/RiverSonde.shtml)
  - Mantenimiento y monitorización de la red Codar de California.
 
-
-#### Desarrollo de aplicaciones para [Anaya Educación](http://www.anayaeducacion.es) (Desde 2014)  
-
-*php, angular, html5, js, angular, mysql, sqlite*  
-Desarrollo de laboratorios virtuales en el campo de la física y la química. Reali
-Desarrollo y mantenimiento de gestores de contenidos, herramientas que permiten un desarrollo más eficaz de los contenidos educativos interactivos.
-Desarrollo y mantenimiento de herramientas para la comunicación de equipos y la gestión de proyectos.
-Desarrollo y mantemimiento del generador de evaluaciones. Esta herramienta tiene más de 1500 usuarios diarios en la península.  
-Durante el año 2016 dirigí un equipo de desarrolladores.  
-Dentro del Grupo Anaya, también he realizado trabajos para Bruno y Algaida:  
-- Desarrollo y mantemimiento del generador de evaluaciones.  
-- Distribución del software [Haleo](https://haleo.editorialbruno.es/).  
-
 #### Desarrollo de aplicaciones para [Arias](http://arias.es/)   (Desde 2015)
 
 *angular, php, sap, saprfc, sap web services*  
