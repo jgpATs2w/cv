@@ -22,8 +22,8 @@ Conocidas
 ***
 Experiencia
 ===========
- - Aplicación web para el catálogo comercial de productos: la parte cliente está desarrollada en **Angular 7** y la parte servidor es una **API REST PHP en [slim](http://www.slimframework.com/)**, integrada con SAP. *2019 - [Mantequerias Arias][arias]*
- - Aplicación web de gestion comercial: la parte cliente está desarrollada en **Angular 7** y la parte servidor es una **API REST en [slim](http://www.slimframework.com/)**, integrada con **SAP**. *2018 - [Mantequerias Arias][arias]*
+ - Aplicación web para el catálogo comercial de productos: la parte cliente está desarrollada en **Angular 7** y la parte servidor es una **API REST PHP en [slim](http://www.slimframework.com/), MySQL**, integrada con SAP. *2019 - [Mantequerias Arias][arias]*
+ - Aplicación web de gestion comercial: la parte cliente está desarrollada en **Angular 7** y la parte servidor es una **API REST en [slim](http://www.slimframework.com/), MySQL**, integrada con **SAP**. *2018 - [Mantequerias Arias][arias]*
  - Sitio web [Milkana](https://arias.es/sites/milkana/). Realizada con **Bootstrap 4, Javascript, HTML** *2018 - [Mantequerias Arias][arias]*
  - Gestion de la seguridad web de Mantequerias Arias (Grupo Savencia). *Desde 2019 - [Mantequerias Arias][arias]*
  - Desarrollo de app de control de acceso a fábricas, con lectura de NIF mediante OCR. Realizado en **Android 7 con [ML-KIT de Firebase](https://firebase.google.com/docs/ml-kit)**. El desarrollo está incompleto. *2018 - [Mantequerias Arias][arias]*
@@ -31,13 +31,13 @@ Experiencia
  - App reconocimiento de imágenes para la mejora del vocabulario inglés. **Android 6, MLKit Firebase**. [WITH](https://play.google.com/store/apps/details?id=haicku.com.whatisthis).  *2018 - Haicku*
 - App web para la resolución automática de ecuaciones, basada en productos **[Wiris](http://www.wiris.com/en)**. Realizada en Angular 2 *2016-[Anaya Educación][anaya]* 
 - Paquete de distribución del software [Haleo](https://haleo.editorialbruno.es/). **Symphony, PHP**. *2017- [Bruño](https://www.editorial-bruno.es/)*  
- - [Sistema de reserva citas online](https://citame.click/) para clinicas de fisioterapia. Realizada en **Angular, PHP, [slim][slim]**. *2015 - [Clinica Dolor Orofacial][oro]*
- - Aplicación web de gestion comercial: la parte cliente está desarrollada en **Angular 7** y la parte servidor es una **API REST en [slim](http://www.slimframework.com/)**, integrada con **SAP**. *2018 - [Mantequerias Arias][arias]*
- - App de contactos y chat. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para Android, iOS y PWA. La parte servidor es una API REST en [slim](http://www.slimframework.com/). *2016 - [Mantequerias Arias][arias]*
- - [App reserva citas online](https://github.com/jgpATs2w/clinic-reservation) para clinicas de fisioterapia. Realizada en **PHP, HTML, Javascript**. *2015 - [Clinica Dolor Orofacial][oro]*
- - App de alertas en fábricas, con envío de SMS y notificaciones PUSH. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para Android, iOS y PWA. La parte servidor es una **API REST en [slim][slim]**. *2016 - [Mantequerias Arias][arias]*
+ - [Sistema de reserva citas online](https://citame.click/) para clinicas de fisioterapia. Realizada en **Angular, PHP, [slim][slim], MySQL**. *2015 - [Clinica Dolor Orofacial][oro]*
+ - Aplicación web de gestion comercial: la parte cliente está desarrollada en **Angular 7** y la parte servidor es una **API REST en [slim](http://www.slimframework.com/), MySQL**, integrada con **SAP**. *2018 - [Mantequerias Arias][arias]*
+ - App de contactos y chat. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para **Android, iOS y PWA**. La parte servidor es una **API REST en [slim](http://www.slimframework.com/), MySQL**. *2016 - [Mantequerias Arias][arias]*
+ - [App reserva citas online](https://github.com/jgpATs2w/clinic-reservation) para clinicas de fisioterapia. Realizada en **PHP, HTML, Javascript, MySQL**. *2015 - [Clinica Dolor Orofacial][oro]*
+ - App de alertas en fábricas, con envío de SMS y notificaciones PUSH. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para Android, iOS y PWA. La parte servidor es una **API REST en [slim][slim], MySQL**. *2016 - [Mantequerias Arias][arias]*
  - Sistema de integración de lecturas de códigos de barras GS1-128 para la gestión de mercancias en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), mediante comunicaciones **SOAP** desde **PHP**. La app cliente está desarrollada en **angularjs** y en el servidor una **API REST en [slim][slim]**.  *2015 - [Mantequerias Arias][arias]*
- - Generador de evaluaciones. Esta herramienta tiene más de 1500 usuarios diarios en la península.  Realizada en **PHP con [slim][slim]**. *Desde 2015 - [Anaya Educación][anaya]*.
+ - Generador de evaluaciones. Esta herramienta tiene más de 1500 usuarios diarios en la península.  Realizada en **PHP con [slim][slim], MySQL**. *Desde 2015 - [Anaya Educación][anaya]*.
  - Laboratorios virtuales física, química y matematicas [PhET](https://phet.colorado.edu/en/simulations/category/html): tradcción y adaptación de contenidos. Realizados con *Javascrip, GULP* *2014-[Anaya Educación][anaya]* 
  - [Laboratorio movimiento armónico simple](https://grupoanaya.github.io/lab-armonic-simple/). Realizado en **Javascript, HTML, [Three](https://threejs.org/)**. *2013-[Anaya Educación][anaya]* 
  - Generador contenidos de CDs. Realizado en **PHP, Ajax, Json, RPC, Javascript, JQuery, HTML, CSS**. *2014 - [Anaya Educación][anaya]*
