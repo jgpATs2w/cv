@@ -13,21 +13,48 @@ Tecnologías
 
 Experto  
 -------  
-*slim, php, angular, karma, material.angular, soap, git, phpunit,  json, java, ubuntu, linux mint, debian, html5, canvas, ajax, postgresql,  mysql, intellij, javascript, firefox, chrome, android, ssh, bash, ionic*  
+*slim, php, angular, karma, material.angular, bootstrap soap, git, phpunit,  json, java, ubuntu, linux mint, debian, html5, canvas, ajax, postgresql,  mysql, intellij, javascript, karma, jasmine, android, ssh, bash, ionic, matlab, octave*  
 
 Conocidas
 ---------
-*wordpress, centos, protractor, r, octave, sqlite, windows, osx, ios, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
+*wordpress, centos, protractor, r, sqlite, windows, osx, ios, rs232, rs485, rs422, ethernet, hmi, doppler, lidar, codar, hf, vhf, radar*
 
 ***
 Experiencia
 ===========
-**Ingeniero de software**-*[Qualitas Instruments](http://www.qualitasinstruments.com)* (2003-2007)  
-*plc, php, matlab, rs232, rs485, rs422, ethernet, hmi, doppler, lidar*  
-- Supervisión y testado en desarrollo de sistema automático de riego.
-- Desarrollo de sistema de medida de caudal en base a sensores Sontek, integrados en diferentes redes [SAIHS](https://es.wikipedia.org/wiki/Sistema_Autom%C3%A1tico_de_Informaci%C3%B3n_Hidrol%C3%B3gica) de tiempo real.
-- Desarrollo e implantación del primer sistema europeo de medida de caudal en tiempo real en estuario.
-Los éxitos logrados por nuestro equipo, permitieron a la empresa situarse al máximo nivel en el sector de la hidrología en lámina libre.  
+ - Aplicación web para el catálogo comercial de productos: la parte cliente está desarrollada en **Angular 7** y la parte servidor es una **API REST en [slim](http://www.slimframework.com/)**, integrada con SAP. *2019 - [Mantequerias Arias][arias]*
+ - Aplicación web de gestion comercial: la parte cliente está desarrollada en **Angular 7** y la parte servidor es una **API REST en [slim](http://www.slimframework.com/)**, integrada con **SAP**. *2018 - [Mantequerias Arias][arias]*
+ - Sitio web [Milkana](https://arias.es/sites/milkana/). Realizada con **Bootstrap 4, Javascript, HTML** *2018 - [Mantequerias Arias][arias]*
+ - Gestion de la seguridad web de Mantequerias Arias (Grupo Savencia). *Desde 2019 - [Mantequerias Arias][arias]*
+ - Desarrollo de app de control de acceso a fábricas, con lectura de NIF mediante OCR. Realizado en **Android 7 con [ML-KIT de Firebase](https://firebase.google.com/docs/ml-kit)**. El desarrollo está incompleto. *2018 - [Mantequerias Arias][arias]*
+ - Migración a Android del sistema de integración de lecturas de códigos de barras GS1-128 para la gestión de mercancias en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), mediante comunicaciones **SOAP desde PHP. Android 7** en dispositivo con lector de código de barras.  *2018 - [Mantequerias Arias][arias]*
+ - App reconocimiento de imágenes para la mejora del vocabulario inglés. **Android 6, MLKit Firebase**. [WITH](https://play.google.com/store/apps/details?id=haicku.com.whatisthis).  *2018 - Haicku*
+- App web para la resolución automática de ecuaciones, basada en productos **[Wiris](http://www.wiris.com/en)**. Realizada en Angular 2 *2016-[Anaya Educación][anaya]* 
+- Paquete de distribución del software [Haleo](https://haleo.editorialbruno.es/). * 2017- [Bruño](https://www.editorial-bruno.es/)*  
+ - Aplicación web de gestion comercial: la parte cliente está desarrollada en **Angular 7** y la parte servidor es una **API REST en [slim](http://www.slimframework.com/)**, integrada con **SAP**. *2018 - [Mantequerias Arias][arias]*
+ - App de contactos y chat. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para Android, iOS y PWA. La parte servidor es una API REST en [slim](http://www.slimframework.com/). *2016 - [Mantequerias Arias][arias]*
+ - [App reserva citas online](https://github.com/jgpATs2w/clinic-reservation) para clinicas de fisioterapia. Realizada en **PHP, HTML, Javascript**. *2015 - [Clinica Dolor Orofacial][oro]*
+ - App de alertas en fábricas, con envío de SMS y notificaciones PUSH. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para Android, iOS y PWA. La parte servidor es una **API REST en [slim][slim]**. *2016 - [Mantequerias Arias][arias]*
+ - Sistema de integración de lecturas de códigos de barras GS1-128 para la gestión de mercancias en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), mediante comunicaciones **SOAP** desde **PHP**. La app cliente está desarrollada en **angularjs** y en el servidor una **API REST en [slim][slim]**.  *2015 - [Mantequerias Arias][arias]*
+ - Generador de evaluaciones. Esta herramienta tiene más de 1500 usuarios diarios en la península.  Realizada en **PHP con [slim][slim]**. *Desde 2015 - [Anaya Educación][anaya]*.
+ - Laboratorios virtuales física, química y matematicas [PhET](https://phet.colorado.edu/en/simulations/category/html): tradcción y adaptación de contenidos. Realizados con *Javascrip, GULP* *2014-[Anaya Educación][anaya]* 
+ - [Laboratorio movimiento armónico simple](https://grupoanaya.github.io/lab-armonic-simple/). Realizado en **Javascript, HTML, [Three](https://threejs.org/)**. *2013-[Anaya Educación][anaya]* 
+ - Generador contenidos de CDs. Realizado en **PHP, Ajax, Json, RPC, Javascript, JQuery, HTML, CSS**. *2014 - [Anaya Educación][anaya]*
+ - Generador actividades interactivas de física. Realizado en **PHP, Ajax, Json, RPC, Javascript, JQuery, HTML, CSS**. *2014 - [Anaya Educación][anaya]*
+ - Generador actividades interactivas. Realizado en **PHP, Javascript, JQuery, HTML, CSS**. *2014 - [Anaya Educación][anaya]*
+ - [Simulador de circuitos CC](https://grupoanaya.github.io/sim-circuitos-electricos-modificacion/). *2011 - [Anaya Educación][anaya]*
++ Plantillas actividades interactivas de matemáticas. Javascript, JQuery, HTML, CSS. *2011 - [Anaya Educación][anaya]*
++ Desarrollo de una aplicación de contabilidad básica en [código abierto](https://github.com/jgpATs2w/contatu)  *2010 - Cooperativa Los Apisquillos*
++ Desarrollo del sistema de geolocalización de ganado en extensivo en [código abierto](https://github.com/jgpATs2w/gpslibre-server) <http://gpslibre.es>.  *2010 - Cooperativa Los Apisquillos*
+ - Migración a GWT del sistema de monitorización en tiempo real de datos hidrológicos (QRMS - Qualitas Remote Monitoring System). Realizado en **[GWT][gwt]**. *2009 - [Qualitas Instruments][qi]* 
+ - Sistema de monitorización de datos oceanográficos en tiempo real, con modelado de datos. Actualmente es la herramienta [Portus](https://portus.puertos.es/Portus_RT/?locale=es) de [Puertos del Estado](http://www.puertos.es/es-es) Realizado con **PHP, Matlab, Mysql, GWT**. *2007 - [Qualitas Instruments][qi]* 
+ - Sistema de monitorización en tiempo real de datos hidrológicos (QRMS - Qualitas Remote Monitoring System). Realizado en **PHP, Html, Css, Javascript**. *2005 - [Qualitas Instruments][qi]* 
+ - Dispositivo de transmisión de datos de sensores (QAP - Qualitas Acces Point). Realizado con [Siemens TC65](https://www.discoverytelecom.eu/catalog/3278.html) en **[J2ME](https://en.wikipedia.org/wiki/Java_Platform,_Micro_Edition)**. *2005 - [Qualitas Instruments][qi]* 
+ - Web de monitorización datos de corrientes superficiales. Realizado en **PHP**. *2005 - [Qualitas Instruments][qi]* 
+ - Automatismo para la monitorización en tiempo real del nivel de embalses con tecnología [Lidar](https://en.wikipedia.org/wiki/Lidar). *2005 - [Qualitas Instruments][qi]*
+ - Automatismo para la monitorización en [tiempo real de caudal en estuarios](https://www.sontek.com/media/pdfs/real-time-flow-measurement-in-the-river-guadiana-estuary-using-acoustic-doppler-technology.pdf), primer sistema europeo de estas características. Simulaciones realizadas en **Matlab** [Sontek][sontek] *2005 - [Qualitas Instruments][qi]*
+ - Automatismo para la monitorización en tiempo real de caudal de agua, producto QFL, integrado con sensores [Sontek][sontek], integrados en redes [SAIHS](https://es.wikipedia.org/wiki/Sistema_Autom%C3%A1tico_de_Informaci%C3%B3n_Hidrol%C3%B3gica). *2003 - [Qualitas Instruments][qi]*
+ - Automatismo para el control automático del riego en agricultura. PLC [Unitronics][unironics]. *2003 - [Qualitas Instruments][qi]*
 
 **Ingeniero Radar**-*[Qualitas Remos](http://www.qualitasremos.com)-[Codar](http://codaros.com/)* (2004-2009)  
 *osx, codar, hf, vhf, radar, bragg, doppler, matlab , ethernet*  
@@ -36,28 +63,11 @@ Como primera empresa instalando los sistemas radar HF de [Codar](http://www.coda
  - Ensayos realizados con el [Riversonde](http://codar.com/RiverSonde.shtml)
  - Mantenimiento y monitorización de la red Codar de California.
 
-**Administrador de sistemas, desarrollador, director de desarrollo**-*[Qualitas Remos](http://www.qualitasremos.com)* (2007-2010)  
-*osx, mysql, php, java, gwt, java-me, html, ssh, bash*  
-Desarrollando aplicaciones Java2ME y sistemas web, creamos un sistema de ámbito nacional para la monitorización de parámetros medioambientales en tiempo real con una amplia familia de sensores analógicos y digitales.  El sistema fue la base del actual sistema de monitorización de datos en tiempo real de Puertos del Estado: [Portus de puertos del estado](https://portus.puertos.es/Portus_RT/?locale=es)
-Como *administrador* de sistemas trabajaba en entornos osx y osx-server, con mysql, apache2, tomcat, ssh, ftpd.
-Como *desarrollador*, enfrentaba el diseño, el desarrollo, la depuración y la documentación, los primeros años solo, y los últimos
-con excelente equipo, que durante dos años dirigí.  
-Como *director de desarrollo* tuve bajo mi responsabilidad un equipo de hasta 4 personas durante dos años.
-
-**Voluntario en Cooperativa Agroforestal**-SCoop Apisquillos (2011-2014)   
-+ Mantenimiento de la red local.  
-+ Desarrollo del sistema de geolocalización de ganado en extensivo en [código abierto](https://github.com/jgpATs2w/gpslibre-server) <http://gpslibre.es>.  
-+ Desarrollo de una aplicación de contabilidad básica en [código abierto](https://github.com/jgpATs2w/contatu) 
-
-**Socio en Cooperativa de servicios informáticos**-SCoop Haicku (2015)  
-Nuestra cooperativa se centra en el desarrollo de software en entornos web en base a software libre y el mantenimiento de redes wifi y de ordenadores en pueblos de la sierra norte de Madrid.
-Actualmente soy administrador de la misma.
-
 
 #### Desarrollo de aplicaciones para [Anaya Educación](http://www.anayaeducacion.es) (Desde 2014)  
 
 *php, angular, html5, js, angular, mysql, sqlite*  
-Desarrollo de laboratorios virtuales en el campo de la física y la química.
+Desarrollo de laboratorios virtuales en el campo de la física y la química. Reali
 Desarrollo y mantenimiento de gestores de contenidos, herramientas que permiten un desarrollo más eficaz de los contenidos educativos interactivos.
 Desarrollo y mantenimiento de herramientas para la comunicación de equipos y la gestión de proyectos.
 Desarrollo y mantemimiento del generador de evaluaciones. Esta herramienta tiene más de 1500 usuarios diarios en la península.  
@@ -69,12 +79,6 @@ Dentro del Grupo Anaya, también he realizado trabajos para Bruno y Algaida:
 #### Desarrollo de aplicaciones para [Arias](http://arias.es/)   (Desde 2015)
 
 *angular, php, sap, saprfc, sap web services*  
- - Desarrollo y mantenimiento de un sistema de integración de lecturas de códigos de barras GS1-128 para la gestión de mercancias en [SAP](https://es.wikipedia.org/wiki/SAP_Business_Suite), mediante comunicaciones SOAP desde PHP. La app cliente está desarrollada en angularjs y en el servidor una API REST en [slim](http://www.slimframework.com/).  
- - Migración a Android 7 de la app anterior, que integra las comunidaciones SOAP.
- - Desarrollo de herramienta de gestión de pedidos internos. La parte cliente está desarrollada en Angular 7 y la parte servidor es una API REST en [slim](http://www.slimframework.com/), integrada con SAP.
- - Desarrollo de app de contactos y chat. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para Android, iOS y PWA. La parte servidor es una API REST en [slim](http://www.slimframework.com/).
- - Desarrollo de app de alertas. Realizada con [Ionic](https://ionicframework.com/) y distribuida internamente mediante [Appaloosa](https://www.appaloosa-store.com) para Android, iOS y PWA. La parte servidor es una API REST en [slim](http://www.slimframework.com/).
- - Desarrollo de app de gestion comercial: la parte cliente está desarrollada en Angular 7 y la parte servidor es una API REST en [slim](http://www.slimframework.com/), integrada con SAP.
 
 **Charlas / Cursos impartidos**  
 >*Medida en tiempo real de caudal en estuarios* - Southampton 2006, Barcelona 2007  
@@ -85,7 +89,7 @@ Dentro del Grupo Anaya, también he realizado trabajos para Bruno y Algaida:
 >*Introducción Angular e Ionic* - Mantequerias Arias, Madrid 2018
 
 **Desarrollo integral de sistemas de gestión de citas** (Desde 2015)  
-Desarrollo de una plataforma de servicios de gestión de citas online, evolucionando desde el sistema que opera desde 2015 en la [Clínica de Dolor Orofacial](https://clinicadolororofacial.es/citas/?room=1) al [sistema comercial](https://citame.click/) que está iniciando su servicio en 2018.
+Desarrollo de una plataforma de servicios de gestión de citas online, evolucionando desde el sistema que opera desde 2015 en la [Clínica de Dolor Orofacial](https://clinicadolororofacial.es/citas/?room=1) al [sistema comercial](https://citame.click/) que está iniciando su servicio en 2018. 
 
 ***
 
@@ -115,9 +119,9 @@ Análisis de seguridad en entornos web: nikto, sqldump, nmap.
 ***
 Perfiles públicos
 =================
-**StackOverflow** - <http://stackoverflow.com/users/2350344/jgpats2w> : Mi compromiso con la comunidad de programadores es ofrecer un retorno de todo lo aprendido gracias a ellos.  
-**Github** <https://github.com/jgpATs2w> : lugar donde comparto mi código abierto y gestiono los repositorios privados con mis clientes.  
-**Linkedin** <http://es.linkedin.com/in/jgpats2w/> : red social de relaciones profesionales.
+**StackOverflow** - <http://stackoverflow.com/users/2350344/jgpats2w> 
+**Github** <https://github.com/jgpATs2w> : Más de 100 repositorios entre públicos y privados.
+**Linkedin** <http://es.linkedin.com/in/jgpats2w/> 
 
 ***
 Apps públicas
@@ -126,3 +130,11 @@ Apps públicas
 **GPSLibre** - <https://play.google.com/store/apps/details?id=haicku.gpslibre> : Cliente Android del sistema gpslibre.es . 
 **Angular-d3-tree** - <https://www.npmjs.com/package/angular-d3-tree> : librería de integración [D3](https://d3js.org/) en Angular.  
 
+[arias]: https://arias.es
+[slim]: http://www.slimframework.com/
+[anaya]: http://www.anayaeducacion.es
+[unitronics]: http://www.unitronics.com/
+[qi]: http://www.qualitasinstruments.com
+[sontek]: https://www.sontek.com/
+[gwt]: http://www.gwtproject.org/
+[oro]: https://clinicadolororofacial.es/
