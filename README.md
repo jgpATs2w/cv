@@ -63,20 +63,14 @@ Como primera empresa instalando los sistemas radar HF de [Codar](http://www.coda
  - Ensayos realizados con el [Riversonde](http://codar.com/RiverSonde.shtml)
  - Mantenimiento y monitorización de la red Codar de California.
 
-#### Desarrollo de aplicaciones para [Arias](http://arias.es/)   (Desde 2015)
-
-*angular, php, sap, saprfc, sap web services*  
 
 **Charlas / Cursos impartidos**  
 >*Medida en tiempo real de caudal en estuarios* - Southampton 2006, Barcelona 2007  
 >*HF Radar Experience in Spain* - Berlin 2007  
->*Fundamentos de los sensores doppler para la medida de caudal*  Universidad de Valladolid 2009
+>*Fundamentos de los sensores doppler para la medida de caudal*  Universidad de Valladolid 2009  
 >*Comunicaciones M2M terminales MTX: Teoría y Práctica* - ETSI Caminos, Canales y Puertos, Madrid 2012  
->*Introducción MySQL* - Grupo Loyal, Madrid 2013 
->*Introducción Angular e Ionic* - Mantequerias Arias, Madrid 2018
-
-**Desarrollo integral de sistemas de gestión de citas** (Desde 2015)  
-Desarrollo de una plataforma de servicios de gestión de citas online, evolucionando desde el sistema que opera desde 2015 en la [Clínica de Dolor Orofacial](https://clinicadolororofacial.es/citas/?room=1) al [sistema comercial](https://citame.click/) que está iniciando su servicio en 2018. 
+>*Introducción MySQL* - Grupo Loyal, Madrid 2013  
+>*Introducción Angular e Ionic* - Mantequerias Arias, Madrid 2018  
 
 ***
 
