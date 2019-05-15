@@ -84,3 +84,13 @@ Public profiles
  - [StackOverflow](http://stackoverflow.com/users/2350344/jgpats2w)  
  - [Github](https://github.com/jgpATs2w)
  - [Linkedin](http://es.linkedin.com/in/jgpats2w/)
+ 
+[arias]: https://arias.es
+[slim]: http://www.slimframework.com/
+[anaya]: http://www.anayaeducacion.es
+[unitronics]: http://www.unitronics.com/
+[qi]: http://www.qualitasinstruments.com
+[sontek]: https://www.sontek.com/
+[gwt]: http://www.gwtproject.org/
+[oro]: https://clinicadolororofacial.es/
+
