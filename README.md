@@ -100,8 +100,8 @@ Análisis de seguridad en entornos web: nikto, sqldump, nmap.
 ***
 Perfiles públicos
 =================
-**StackOverflow** - <http://stackoverflow.com/users/2350344/jgpats2w> 
-**Github** <https://github.com/jgpATs2w> : Más de 100 repositorios entre públicos y privados.
+**StackOverflow** - <http://stackoverflow.com/users/2350344/jgpats2w>  
+**Github** <https://github.com/jgpATs2w> : Más de 100 repositorios entre públicos y privados.  
 **Linkedin** <http://es.linkedin.com/in/jgpats2w/> 
 
 ***
