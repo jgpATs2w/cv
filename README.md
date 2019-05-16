@@ -1,5 +1,5 @@
 # CURRICULUM VITAE
-[[english version](https://github.com/jgpATs2w/cv/blob/master/cv_en.md)]
+[[english version](https://github.com/jgpATs2w/cv/blob/master/cv_en.md)] [[pdf](https://github.com/jgpATs2w/cv/files/3185709/cv_jgp.pdf)]
 
 Javier García Parra  
 Residencia: Bustarviejo, Madrid  
