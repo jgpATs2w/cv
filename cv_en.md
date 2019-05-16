@@ -1,13 +1,13 @@
 
 # CURRICULUM VITAE
-[[versión en castellano](https://github.com/jgpATs2w/cv)]  
+[[versión en castellano](https://github.com/jgpATs2w/cv)]  [[pdf](https://github.com/jgpATs2w/cv/files/3185710/cv_jgp_en.pdf)]
 
 Javier García Parra  
 Residencia: Bustarviejo, Madrid  
 Contacto: 684010233 / javier@haicku.es  
 Nacimiento: 24/02/1978, Madrid  
 
-Artisan Web and Mobile programmer.   
+Artisan Web (linux) and Mobile programmer.   
 
 Technical skills
 ================
