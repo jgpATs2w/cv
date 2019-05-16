@@ -13,7 +13,7 @@ Technical skills
 ================
 Expert
 ------
-*slim, php, angular, karma, material.angular, bootstrap soap, git, phpunit,  json, java, ubuntu, linux mint, debian, html5, canvas, ajax, postgresql,  mysql, intellij, javascript, karma, jasmine, android, ssh, bash, ionic, matlab, octave*
+*slim, php, composer, angular, npm, karma, material.angular, bootstrap soap, git, phpunit,  json, java, ubuntu, linux mint, debian, html5, canvas, ajax, postgresql,  mysql, intellij, javascript, karma, jasmine, android, ssh, bash, ionic, matlab, octave*
  
 Known
 -----
