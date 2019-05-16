@@ -1,6 +1,6 @@
 
 # CURRICULUM VITAE
-
+[[versión en castellano](https://github.com/jgpATs2w/cv)]
 Javier García Parra  
 Residencia: Bustarviejo, Madrid  
 Contacto: 684010233 / javier@haicku.es  
